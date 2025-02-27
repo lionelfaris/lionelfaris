@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and data analysis
 - 🌱 I’m currently learning Python and web development related things
 - 📫 How to reach me : lombafaris@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 
 
 <!---
