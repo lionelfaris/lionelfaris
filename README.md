@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lionelfaris
-- 👀 I’m interested in web development and data analysis
+- 👀 I’m interested in data analysis and web development
 - 🌱 I’m currently learning Python and web development related things
 - 📫 How to reach me : lombafaris@gmail.com
 - 😄 Pronouns: He/him
